@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OzKirkham
-- 👀 I’m interested in Data solutions, Motocross, and oil painting
+- 👀 I’m interested in Data Architecture, ML OPS, Motocross, and oil painting 
 - 🌱 I’m currently learning DevOps and Data Engineering / ML OPS solutions
-- 💞️ I’m looking to collaborate on ML Pipeliens
+- 💞️ I’m looking to collaborate on ML Pipelines
 - 📫 How to reach me https://www.linkedin.com/in/ozkirkham/
 
 <!---
